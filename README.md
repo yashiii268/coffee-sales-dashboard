@@ -19,6 +19,7 @@ I developed and comprehensive MS excel dashboard for coffee sale sorting data an
 - created pivot table according to the objectives.
 - gouped all pivot tables onto one dashboard and added slicers to make it dynamic.
 ## Dashboard
-<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/b5a998ab-49fc-42a3-a8fc-983e5d8c2451" />
+<img width="1533" height="800" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/a5d092e3-64f8-45a0-9e11-3896d5d1ddde" />
+
 
 
