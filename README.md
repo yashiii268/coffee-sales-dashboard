@@ -10,3 +10,5 @@ I developed and comprehensive MS excel dashboard for coffee sale sorting data an
 - sales chart according to size of coffee ordered.
 - list of top 10 buyers.
 - pattern of purchase by loyalty card holders.
+## Dashboard interaction 
+- <a href="
